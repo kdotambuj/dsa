@@ -21,7 +21,7 @@ Feel free to adapt folder structure, add new problems, or extend the checklist t
 ## 1. Fundamentals
 
 ### Data Structures
-- [ ] Arrays (static)
+- [x] Arrays (static)
 - [ ] Dynamic arrays
 - [ ] Circular arrays
 - [ ] Strings (null-terminated)
